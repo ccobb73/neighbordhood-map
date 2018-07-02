@@ -7,7 +7,7 @@ var bounds;
 function initMap() {
     var cocoaBeach = {
         lat: 28.3200067,
-        lng: --80.60755130000001
+        lng: -80.60755130000001
     };
     map = new google.maps.Map(document.getElementById('map'), {
         zoom: 3,
