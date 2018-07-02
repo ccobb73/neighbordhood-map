@@ -4,7 +4,7 @@
 
 ## About
 
-This is the fifth project for the Udacity Full Stack Nanodegree. The Neighborhood Map project involves developing a single page application with the KnockoutJS framework and various API's. Aside from the Google Maps API, additional information is added to the project locations with the FourSquare API loaded asynchronously. KnockoutJS allows the project to be organized with the MVVM pattern.
+This is the fifth project for the Udacity Full Stack Nanodegree, showing a neighborhood map in Cocoa Beach Florida of fun things to do. ! It's intended as a challenge to put together a website from various APIs. This includes making function calls to Google Maps and other location-based services like Foursquare. The Neighborhood Map project involves developing a single page application with the KnockoutJS framework and various API's. Aside from the Google Maps API, additional information is added to the project locations with the FourSquare API loaded asynchronously. KnockoutJS allows the project to be organized with the Model-View-View Model (MVVM) pattern.
 
 
 ## Skills used for this project
