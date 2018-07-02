@@ -22,7 +22,7 @@ This is the fifth project for the Udacity Full Stack Nanodegree. The Neighborhoo
 
 - Download the project or clone the repository
 - Open `index.html`
-- Or see the demo at https://ddavignon.github.io/neighborhood-map/
+- Or see the demo at https://ccobb73.github.io/neighborhood-map/
 
 
 ### Reference materials
